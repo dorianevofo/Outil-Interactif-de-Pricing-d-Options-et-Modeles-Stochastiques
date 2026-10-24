@@ -1,0 +1,2 @@
+# Outil-Interactif-de-Pricing-d-Options-et-Modeles-Stochastiques
+Interface web sous Streamlit dédiée à la valorisation d'options et à la simulation stochastique. L'outil intègre la vérification de la convergence de la variation quadratique vers T, la modélisation de la volatilité locale, des processus de diffusion par saut, ainsi que la valorisation d'options sur obligations avec le modèle de Hull-White
